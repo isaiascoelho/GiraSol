@@ -1,4 +1,4 @@
-GiraSol-
+GiraSol
 ========
 
 Track sunlight of Arduino plataform
